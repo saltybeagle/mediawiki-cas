@@ -1,0 +1,1 @@
+This is an extension for MediaWiki to allow authentication via JA-SIG's Central Authentication Service (CAS) single sign-on.
